@@ -1,3 +1,3 @@
 ## Project Report
 
-📄 [View EV Project Report (PDF)](./Electric_Vehicle_Data_Visualization_Analysis_Report.pdf)
+[View Project Report](./EV_Report.pdf)
